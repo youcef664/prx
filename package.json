@@ -8,6 +8,7 @@
   },
   "author": "OneEvil",
   "license": "ISC",
+  "private": true,
   "dependencies": {
     "dotenv": "^4.0.0"
   }
